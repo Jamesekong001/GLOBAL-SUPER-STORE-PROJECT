@@ -1,4 +1,4 @@
-# GLOBAL-SUPER-STORE-
+# GLOBAL-SUPER-STORE PROJECT
 Global Super Store Sales Dashboard analyzes sales, profit, quantity, and shipping cost across regions, cities, and product categories, providing actionable insights for business performance optimization and data-driven decision-making.
 Global Super Store Analysis Dashboard
 # Project Overview
